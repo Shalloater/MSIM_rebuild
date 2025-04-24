@@ -752,7 +752,7 @@ def simple_max_finder(a, show_plots=True):
 def get_offset_vector(image, direct_lattice_vectors, prefilter='median', filter_size = 3,verbose=True, display=True,
                       show_interpolation=True):
     """
-    已知晶格向量，计算一张图片中晶格点的偏移向量
+    已知晶格向量，计算一张图片中晶格点的偏移向量？
     :param image:
     :param direct_lattice_vectors:
     :param prefilter:
